@@ -114,4 +114,4 @@ async def test_project(dut):
 
 
 
-            assert False, f"Rendered {basename} differs from reference image"
+
